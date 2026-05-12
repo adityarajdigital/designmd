@@ -208,9 +208,16 @@ For larger contributions (extraction quality, new categories, comparison logic, 
 
 ## License
 
-[MIT](./LICENSE) for the materials in this repository (`README`, sample outputs, docs, screenshots).
+[MIT](./LICENSE) — covers the **materials in this repository only**: `README`, sample `DESIGN.md` outputs, documentation, screenshots, and the example thumbnails.
 
-The DesignMD platform, brand name, and production source code are not under this license. See [proprietary boundary](#proprietary-boundary).
+The MIT license **does not** extend to:
+
+- The DesignMD production source code, automation, or infrastructure
+- The token-extraction pipeline (DOM/CSSOM measurement code)
+- The LLM prompts and generation logic
+- The DesignMD name, logo, and brand identity
+
+For licensing the platform itself or commercial deployment, please reach out — [adityaraj.info](https://adityaraj.info).
 
 ## Acknowledgments
 
