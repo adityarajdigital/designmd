@@ -221,7 +221,9 @@ For licensing the platform itself or commercial deployment, please reach out —
 
 ## Acknowledgments
 
-Built by [Aditya Raj](https://adityaraj.info). Powered by Anthropic Claude for the spec-generation layer, Playwright for browser automation, and the design teams at every measured site whose public CSS makes this possible.
+Built by [Aditya Raj](https://adityaraj.info). DesignMD is powered by automated browser instrumentation, frontend analysis pipelines, and AI-assisted specification generation.
+
+Thanks to the designers and engineers behind the modern web whose publicly accessible systems make benchmarking and design research possible.
 
 ---
 
